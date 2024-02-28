@@ -19,6 +19,7 @@ beginner_source/hymenoptera_data/
 intermediate_source/data/
 *.zip
 MNIST/
+data/
 
 #builds
 _build/
@@ -121,6 +122,7 @@ cleanup.sh
 
 # PyTorch things
 *.pt
+*.pth
 
 # VSCode
 *.vscode
